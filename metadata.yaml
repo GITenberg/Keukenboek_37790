@@ -1,0 +1,29 @@
+_repo: Keukenboek_37790
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37790-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Davidis, Henriette
+    aliases:
+    - Davidis-Holle, Henriette
+    - Davithis, H. (Henriette)
+    - Davidis, H.
+    deathdate: 1876
+    gutenberg_agent_id: '39064'
+    url: http://www.gutenberg.org/2009/agents/39064
+description: ''
+gutenberg_issued: '2011-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37790'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, German'
+- !lcc 'TX'
+title: Keukenboek
+url: http://www.gutenberg.org/ebooks/37790
